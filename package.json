@@ -1,0 +1,10 @@
+{
+  "name": "nami-ae",
+  "version": "1.0.0",
+  "description": "experimental website",
+  "main": "index.js",
+  "repository": "https://github.com/INTACT180/nami-ae",
+  "author": "Scott Suarez",
+  "license": "MIT",
+  "private": false
+}
